@@ -14,8 +14,6 @@ I created a Python script to check the strength of passwords.
 
 - [PythonPasswordStrengthChecker_script](https://github.com/craiglashley/PythonPasswordStrengthChecker/blob/main/PythonPasswordStrengthChecker_script) 
 
-![Screenshot 2024-03-26 102638](https://github.com/craiglashley/PythonPasswordStrengthChecker/assets/164884179/050ed67d-aef0-4050-aab6-790fff32c9d4)
-
 <h2>Test Results</h2>
 <p align="center">
 Password must be at least 8 characters long
